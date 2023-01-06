@@ -88,7 +88,8 @@ The above image is a screenshot showing the code and output for the EasyEnsemble
         - Low Risk: 94%
 
 ## Summary
-Summarize the results
+Based on the analysis, the best performing model or algorithm was the EasyEnsembleClassifier. This algorithm returned the highest Balanced Accuracy Score of 93% and the highest Recall Scores of 91% and 94% for high and low risk, respectively. 
 
-## Recommendation
-Either a recommendation for which model to use or no recommendation with a justifcation.
+The worst performing model or algorithm was the SMOTEEN Algorithm which is also considered a combination sampling model.The Balance Accuracy Score was 64%. The Recall Scores were: high risk: 69% and low risk: 58%.
+
+My recommendation would be to use the EasyEnsembleClassifier algorithm based on the analysis performed.
